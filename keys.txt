@@ -1,0 +1,7 @@
+Alchemy API: 2de7afaebc6bd944bbec7025f56b490b3c6ac07a
+
+Conf:
+python alchemyapi.py 2de7afaebc6bd944bbec7025f56b490b3c6ac07a
+
+Google Maps API:
+AIzaSyChG7tuKXg-R_InJSdWRjGlqp8F6pPI57o
